@@ -23,12 +23,12 @@
 </br>
 
 ## 4. file 설명
-- 'main.py' 
-main 실행 코드, 두 이미지를 openpose를 통해 스켈레톤 값을 얻고 관절 각도를 비교해 mae값을 리턴
-https://github.com/sinjy1203/openpose_pose_error/blob/master/main.py
-- 'src/util/Pose_compare' 
-스켈레톤 값을 이용해 관절각도를 리턴, 관절각도들을 비교해 mae값 리턴
-https://github.com/sinjy1203/openpose_pose_error/blob/master/src/util.py
+### 'main.py' 
+- main 실행 코드, 두 이미지를 openpose를 통해 스켈레톤 값을 얻고 관절 각도를 비교해 mae값을 리턴
+- https://github.com/sinjy1203/openpose_pose_error/blob/master/main.py
+### 'src/util/Pose_compare' 
+- 스켈레톤 값을 이용해 관절각도를 리턴, 관절각도들을 비교해 mae값 리턴
+- https://github.com/sinjy1203/openpose_pose_error/blob/master/src/util.py
 
 https://github.com/Hzzone/pytorch-openpose 사용
 
